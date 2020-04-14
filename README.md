@@ -4,4 +4,4 @@
 Go to **[BSim Sanbox](https://computationstructures.org/exercises/sandboxes/bsim.html)** then click "*Open BSIM in a new window*".
 
 ## License
-[GPL-3.0 © Dat Tran.](../LICENSE)
+[GPL-3.0 © Dat Tran.](https://github.com/trdat/FU_CEA201/blob/master/LICENSE)
