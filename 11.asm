@@ -40,7 +40,7 @@ Swap20:
 
 Cmp12:
 	CMPLT(r1, r2, r3)					// if r1 < r2 then r3 = 1 else r3 = 0
-	BNE(r3, Swap21, r31)				// if r3 != 0 then go to Swap21
+	BNE(r3, Swap21, r31)			// if r3 != 0 then go to Swap21
 	BR(SaveMem)
 
 Swap21:
