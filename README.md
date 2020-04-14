@@ -1,5 +1,5 @@
 # FU_CEA201
-[![follow](https://img.shields.io/github/followers/trdat?label=Follow&style=social)](https://github.com/trdat)
+[![HitCount](http://hits.dwyl.com/trdat/FU_CEA201.svg)](http://hits.dwyl.com/trdat/FU_CEA201)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat-square)](https://github.com/trdat/FU_CEA201/issues)
 
 All my exercises for the chapter 13 - Instruction Sets: Addressing Modes and Formats in the subject CEA201 (Computer Organization and Architecture) in university
 ## Usage
