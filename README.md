@@ -1,5 +1,7 @@
 # FU_CEA201
 [![standard-readme compliant](https://img.shields.io/github/followers/trdat?label=Follow&style=social)](https://github.com/trdat)
+
+All my exercises for the chapter 13 - Instruction Sets: Addressing Modes and Formats in the subject CEA201 (Computer Organization and Architecture) in university
 ## Usage
 Go to **[BSim Sanbox](https://computationstructures.org/exercises/sandboxes/bsim.html)** then click "*Open BSIM in a new window*".
 
